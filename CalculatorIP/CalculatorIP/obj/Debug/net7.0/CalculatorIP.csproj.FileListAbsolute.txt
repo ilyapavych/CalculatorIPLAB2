@@ -1,0 +1,15 @@
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/bin/Debug/net7.0/CalculatorIP
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/bin/Debug/net7.0/CalculatorIP.deps.json
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/bin/Debug/net7.0/CalculatorIP.runtimeconfig.json
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/bin/Debug/net7.0/CalculatorIP.dll
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/bin/Debug/net7.0/CalculatorIP.pdb
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/CalculatorIP.csproj.AssemblyReference.cache
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/CalculatorIP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/CalculatorIP.AssemblyInfoInputs.cache
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/CalculatorIP.AssemblyInfo.cs
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/CalculatorIP.csproj.CoreCompileInputs.cache
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/CalculatorIP.dll
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/refint/CalculatorIP.dll
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/CalculatorIP.pdb
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/CalculatorIP.genruntimeconfig.cache
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/ref/CalculatorIP.dll
