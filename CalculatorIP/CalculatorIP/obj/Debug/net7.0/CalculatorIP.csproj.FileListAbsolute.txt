@@ -13,3 +13,6 @@
 /Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/CalculatorIP.pdb
 /Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/CalculatorIP.genruntimeconfig.cache
 /Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/ref/CalculatorIP.dll
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/bin/Debug/net7.0/CalculatorLibrary.dll
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/bin/Debug/net7.0/CalculatorLibrary.pdb
+/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorIP/CalculatorIP/obj/Debug/net7.0/CalculatorIP.csproj.CopyComplete

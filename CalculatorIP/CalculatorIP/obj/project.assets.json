@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "CalculatorLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CalculatorLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculatorLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CalculatorLibrary/1.0.0": {
+      "type": "project",
+      "path": "../../CalculatorLibrary/CalculatorLibrary.csproj",
+      "msbuildProject": "../../CalculatorLibrary/CalculatorLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "CalculatorLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/illia_pavych/.nuget/packages/": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorLibrary/CalculatorLibrary.csproj": {
+              "projectPath": "/Users/illia_pavych/Documents/CAMOSUN Y2S1/ECET230(VS)/CalculatorIPLAB2/CalculatorIPLAB2/CalculatorLibrary/CalculatorLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

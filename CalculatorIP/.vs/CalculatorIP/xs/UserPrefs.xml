@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{B80B6CB8-C8C1-4024-A1A4-B2FF0394D630}|Default">
-  <MonoDevelop.Ide.ItemProperties.CalculatorIP FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CalculatorIP PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CalculatorLibrary FirstBuild="True" />
 </Properties>
